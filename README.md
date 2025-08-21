@@ -1,5 +1,5 @@
 # 1st_repo
-this is my first git hub repository
+this is my repo having react projects
 <br>
 author-Noman Sadique(administrator)
 <br>
